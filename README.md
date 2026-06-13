@@ -4,7 +4,7 @@ This project analyses sector-level return dynamics across Vietnam's HOSE equity 
 # Data
 - **Stocks:** VCB, STB (Banking), VHM, NVL (Real Estate), VNM, MSN (Consumer Staples), FPT (Information Technology)
 - **Period:** 2019–2025
-- **Source:** Yahoo Finance / HOSE
+- **Source:** Investing.com / HOSE
 
 # Methods
 - OLS regression (beta, alpha, R²)
